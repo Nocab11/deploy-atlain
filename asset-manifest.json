@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/deploy-atlain/static/css/main.073c9b0a.css",
+    "main.js": "/deploy-atlain/static/js/main.1efba8cc.js",
+    "static/js/787.988ec5a2.chunk.js": "/deploy-atlain/static/js/787.988ec5a2.chunk.js",
+    "static/media/logo.svg": "/deploy-atlain/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/deploy-atlain/index.html",
+    "main.073c9b0a.css.map": "/deploy-atlain/static/css/main.073c9b0a.css.map",
+    "main.1efba8cc.js.map": "/deploy-atlain/static/js/main.1efba8cc.js.map",
+    "787.988ec5a2.chunk.js.map": "/deploy-atlain/static/js/787.988ec5a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1efba8cc.js"
+  ]
+}
